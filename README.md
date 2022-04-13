@@ -1,4 +1,4 @@
-### The are some site name where describe Pandas Question and answer
+### The are some site name where available  Pandas Question and Answer
 
 https://www.mytectra.com/interview-question/python-pandas-interview-questions-and-answers
 
